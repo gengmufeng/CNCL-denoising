@@ -26,6 +26,6 @@ Pytorch implementation of **Content-Noise Complementary Learning for Medical Ima
 
 ### 3. result
 
-**saved_models**: save the trained models.
+**saved_models**: save the trained models. The trained CNCL-U-Net model for low-dose CT denoising is available at: https://drive.google.com/drive/folders/1_qamlI2KArQQNZZQa2gGfwYn7vJ5aeIG
 
 **test**: save the predicted content images when testing.
